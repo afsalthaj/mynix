@@ -32,7 +32,7 @@ stdenv.mkDerivation rec {
     jq
     shellcheck
     figlet
-
+    flink
     jdk8
     sbt
     scala_2_11

@@ -31,14 +31,16 @@ stdenv.mkDerivation rec {
     gettext
     tmux
     jq
+    jekyll
     tree
     shellcheck
     figlet
-
+    ammonite
     local-jdk11
     sbt
     gradle
     maven
+    yarn
 
     local-awscli
     terraform_0_12
